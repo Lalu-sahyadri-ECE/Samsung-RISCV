@@ -1,6 +1,3 @@
-Here’s the revised stepwise content with the inclusion of the  sum of 1 to \( n \)  explanation:
-
----
 
    RISC-V Talent Development Program 
 
