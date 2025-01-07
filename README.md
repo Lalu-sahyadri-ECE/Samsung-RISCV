@@ -6,7 +6,7 @@ Here’s the revised stepwise content with the inclusion of the  sum of 1 to \( 
 
 The program, powered by  Samsung Semiconductor India Research (SSIR)  and  VLSI System Design (VSD) , is focused on developing talent in the RISC-V ecosystem.
 
- #  Participant Details: 
+   Participant Details: 
 -  Name:  Lalu Prasad B  
 -  Institution:  Sahyadri College of Engineering & Management, Mangaluru  
 -  Email:  lalu.ec22@sahyadri.edu.in  
@@ -14,14 +14,14 @@ The program, powered by  Samsung Semiconductor India Research (SSIR)  and  VLSI 
 
    Task 1: Development and Compilation of a Parameterized C Program 
 
- #  1. Setting Up the Virtual Machine: 
+  1. Setting Up the Virtual Machine: 
 I used  VirtualBox  to set up a virtual environment with  Ubuntu 18.04 :
 1. Opened VirtualBox and clicked "New" to create a new virtual machine.
 2. Selected  Linux  as the operating system and  Ubuntu 18.04  as the version.
 3. Allocated memory and selected an existing virtual hard disk (the unzipped VDI file).
 4. Launched the virtual machine and verified that it booted successfully.
 
- #  2. Writing, Compiling, and Running the C Program Locally: 
+  2. Writing, Compiling, and Running the C Program Locally: 
 I wrote a parameterized C program (`sum1ton.c`) to compute the sum of numbers from 1 to \( n \). This program uses a loop for computation and dynamically accepts \( n \) as input from the user during execution.
 
 1.  Sum of Numbers from 1 to \( n \): 
