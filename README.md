@@ -6,7 +6,7 @@ Name: Lalu Prasad B
 -
 College: Sahyadri College of Engineering and Management, Adyar, Mangaluru.
 -
-Email ID: lalu.ec22@sahyadri.edu.in or namanm152003@gmail.com
+Email ID: lalu.ec22@sahyadri.edu.in
 -
 LinkedIn: [Lalu Prasad B](https://www.linkedin.com/in/lalu-prasad-81411932b)
 -
